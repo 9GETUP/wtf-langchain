@@ -64,6 +64,7 @@ tags:
 
 ```shell
 pip install langchain==0.0.235 openai==0.28.1 
+
 ```
 
 ### 代码
